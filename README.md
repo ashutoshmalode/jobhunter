@@ -2,7 +2,7 @@
 
 A polished, full-featured job board built with React, Redux Toolkit, and Firebase — featuring real authentication (email/password + Google), live job listings stored in Firestore, a job posting system, saved jobs, and a user profile dashboard, all wrapped in a professional Material UI + Tailwind CSS interface.
 
-> **Live demo:** _add your deployed Vercel URL here_
+> **Live demo:** https://jobhunter-kohl.vercel.app/
 > **Repo:** _add your GitHub URL here_
 
 ---
